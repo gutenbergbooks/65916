@@ -13,7 +13,7 @@ Title: Medicine and the Church
 
 Editor: Geoffrey Rhodes
 
-Release Date: July 26, 2021 [eBook #65916]
+Release Date: July 25, 2021 [eBook #65916]
 
 Language: English
 
@@ -25,14 +25,6 @@ Produced by: Thiers Halliwell, Tim Lindell and the Online Distributed
 *** START OF THE PROJECT GUTENBERG EBOOK MEDICINE AND THE CHURCH ***
 
 
-Transcriber’s notes:
-
-The text of this e-book has been preserved in its original form apart
-from silent correction of a few minor punctuation flaws (missing commas
-and full stops). There are occasional spelling inconsistencies as a
-consequence of its multiple authorship. One missing footnote marker has
-been inserted at what seemed an appropriate position. Footnotes have
-been numbered and relocated below the relevant paragraphs.
 
 
 
@@ -3941,8 +3933,7 @@ more so because he sins against the higher self. Christ is the Saviour
 of the whole man, and to the sick He restores ‘perfect soundness,’[36]
 nor does He refuse to be called the Saviour of the body.[37]
 
-  [33] See _British Medical Journal_, June 18, 1910.[**unmatched
-  footnote]
+  [33] See _British Medical Journal_, June 18, 1910.
 
   [34] Philippians, iv. 11.
 
@@ -6370,7 +6361,6 @@ COMPLETE WORKS.
 
 
 KEGAN PAUL, TRENCH, TRÜBNER & CO., LTD., London.
-
 
 *** END OF THE PROJECT GUTENBERG EBOOK MEDICINE AND THE CHURCH ***
 
